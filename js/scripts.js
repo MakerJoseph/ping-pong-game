@@ -1,4 +1,3 @@
-
 $(document).ready(function(){
   $("form#inputtedNumber").submit(function(event){
   event.preventDefault();
