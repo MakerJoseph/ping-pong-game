@@ -1,0 +1,30 @@
+}
+.sec {
+    width: 100%;
+    height: 600px;
+    background: #a1d1c3;
+    margin: auto;
+}
+.left {
+    margin-right: 10%;
+    width: 35%;
+    height: 2000px;
+    background: #700303;
+    float: left;
+    font-weight: bolder;
+    text-align: center;
+    color: #809304;
+}
+.right {
+    background-color: #53bbc6;
+    background-position: center;
+    margin-left: 20%;
+    height: 2000px;
+    font-weight: bold;
+}
+.pong{
+  color: white;
+  height: 150px;
+  background-color: black;
+  text-align: center;
+}
