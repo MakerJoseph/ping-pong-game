@@ -1,14 +1,32 @@
-# {ping pong}
-#### {App to replace description below with corresponding values}, {July 13 2018}
+# {Ping Pong}
+#### {A game of ping pong to play around with numbers divisible by 3 and 5}, {July 13 2018}
 #### By **{Joseph Maker}**
 ## Description
-{application takes user input and counts from 1 up to the chosen nunber with the following exceptions
+{application takes user input and counts from 1 up to the chosen number with the following exceptions
   Numbers divisible by 3 are replaced with "ping"
   Numbers divisible by 5 are replaced with "pong"
-  Numbers divisible by 15 are replaced with "pingpong" }
-{the web application is easy to use, just key any number you wish and the it will do its magic!}
+  Numbers divisible by 15 are replaced with "pingpong"
+the web application is easy to use, just key any number you wish and the it will do its magic!
+}
+## Specifications
+{
+  It can count upto the inputted number
+    input = 3
+    output = [1, 2, 3]
+  If the number at index is divisible by 3
+    input = index/3
+    output = "ping"
+  If the number at index is divisible by 5
+    input = index/5
+    output = "pong"
+  If the number at index is divisible by both 3 and 5
+    input = index/15
+    output = "pingpong"
+  It ends the loop once the number has been reached
+
+}
 ## Known Bugs
-{clearing the form after an input. }
+{Previous bugs of clearing the form have been resolved. But once a large number has been inputted the appended values extend beeyond the right div}
 ## Technologies Used
 {HTML/CSS Javascript.}
 ## Support and contact details
