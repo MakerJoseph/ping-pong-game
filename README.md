@@ -10,7 +10,7 @@ the web application is easy to use, just key any number you wish and the it will
 }
 ## Specifications
 {
-  It can count upto the inputted number
+  It can count up to the inputted number
     input = 3
     output = [1, 2, 3]
   If the number at index is divisible by 3
@@ -23,7 +23,6 @@ the web application is easy to use, just key any number you wish and the it will
     input = index/15
     output = "pingpong"
   It ends the loop once the number has been reached
-
 }
 ## Known Bugs
 {Previous bugs of clearing the form have been resolved. But once a large number has been inputted the appended values extend beeyond the right div}
