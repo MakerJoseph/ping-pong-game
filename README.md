@@ -10,19 +10,19 @@ the web application is easy to use, just key any number you wish and the it will
 }
 ## Specifications
 {
-  It can count up to the inputted number
+*  It can count up to the inputted number
     input = 3
     output = [1, 2, 3]
-  If the number at index is divisible by 3
+*  If the number at index is divisible by 3
     input = index/3
     output = "ping"
-  If the number at index is divisible by 5
+*  If the number at index is divisible by 5
     input = index/5
     output = "pong"
-  If the number at index is divisible by both 3 and 5
+*  If the number at index is divisible by both 3 and 5
     input = index/15
     output = "pingpong"
-  It ends the loop once the number has been reached
+*  It ends the loop once the number has been reached
 }
 ## Known Bugs
 {Previous bugs of clearing the form have been resolved. But once a large number has been inputted the appended values extend beeyond the right div}
