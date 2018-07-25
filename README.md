@@ -1,4 +1,4 @@
-# {Ping Pong}
+# {Ping Pong  https://makerjoseph.github.io/ping-pong-game/}
 #### {A game of ping pong to play around with numbers divisible by 3 and 5}, {July 13 2018}
 #### By **{Joseph Maker}**
 ## Description
@@ -9,7 +9,7 @@
 the web application is easy to use, just key any number you wish and the it will do its magic!
 }
 ## Specifications
-{
+
 *  It can count up to the inputted number
     input = 3
     output = [1, 2, 3]
@@ -23,7 +23,7 @@ the web application is easy to use, just key any number you wish and the it will
     input = index/15
     output = "pingpong"
 *  It ends the loop once the number has been reached
-}
+
 ## Known Bugs
 {Previous bugs of clearing the form have been resolved. But once a large number has been inputted the appended values extend beeyond the right div}
 ## Technologies Used
