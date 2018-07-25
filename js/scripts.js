@@ -11,7 +11,9 @@ $(document).ready(function(){
       if (i % 15 === 0) result = "pingpong"
 
       $("ol#display").append(result + "</br>");
-      console.log(i);
     }
   });
+  $("button#btn").click(function(){
+    $("#display").empty()
+  })
 });
